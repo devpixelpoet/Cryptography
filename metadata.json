@@ -1,0 +1,5 @@
+{
+  "name": "CryptoMaster - Advanced Cipher Tool",
+  "description": "A professional cryptography tool specializing in Rail Fence, Columnar Transposition, Playfair, and Caesar ciphers with an integrated AI assistant.",
+  "requestFramePermissions": []
+}
