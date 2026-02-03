@@ -1,8 +1,3 @@
-import { CipherType } from "../types";
-
-/**
- * Caesar Cipher implementation
- */
 export const caesarCipher = (
   text: string,
   shift: number,
